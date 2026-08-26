@@ -1,4 +1,12 @@
-# Foursquare Hymnal 1957
-Foursquare Hymnal (1957)
+# [Foursquare Hymnal 1957](https://archive.org/details/foursquarehymnal0000unse/)
 
-https://archive.org/details/foursquarehymnal0000unse/
+## Index
+
+- **PRAISE GOD FROM WHOM ALL BLESSINGS FLOW**
+  [PDF](./pdf/PRAISE%20GOD%20FROM%20WHOM%20ALL%20BLESSINGS%20FLOW.pdf) | [MIDI](./midi/PRAISE%20GOD%20FROM%20WHOM%20ALL%20BLESSINGS%20FLOW.midi) | [LilyPond](./lilypond/PRAISE%20GOD%20FROM%20WHOM%20ALL%20BLESSINGS%20FLOW.ly) | [Scan](./scan/PRAISE%20GOD%20FROM%20WHOM%20ALL%20BLESSINGS%20FLOW.png)
+
+- **001. O WORSHIP THE KING**
+  [PDF](./pdf/O%20WORSHIP%20THE%20KING.pdf) | [MIDI](./midi/O%20WORSHIP%20THE%20KING.midi) | [LilyPond](./lilypond/O%20WORSHIP%20THE%20KING.ly) | [Scan](./scan/O%20WORSHIP%20THE%20KING.png)
+
+- **002. PREACH THE WORD**
+  [PDF](./pdf/PREACH%20THE%20WORD.pdf) | [MIDI](./midi/PREACH%20THE%20WORD.midi) | [LilyPond](./lilypond/PREACH%20THE%20WORD.ly) | [Scan](./scan/PREACH%20THE%20WORD.png)
