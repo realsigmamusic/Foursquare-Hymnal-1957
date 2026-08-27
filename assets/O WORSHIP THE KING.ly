@@ -1,4 +1,4 @@
-\version "2.27.1"
+\version "2.26.0"
 
 \paper {
   #(set-paper-size "a4")
