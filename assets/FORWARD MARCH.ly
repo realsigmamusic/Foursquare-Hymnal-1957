@@ -23,7 +23,7 @@ soprano = \relative c'' {
   c4 des
   c2 ~
   c4 ees,8 f
-  <ees ges>4 <f aes> \break
+  ges4 aes \break
   bes4 c
   aes2 ~
   aes4 f8 ( ges )
@@ -74,9 +74,10 @@ alto = \relative c' {
   \partial 4 des8 ees
   <des f>4 <des f>
   <f aes>4 <f aes>
-  r8 aes16 aes c aes c ees
-  aes8 r c,, des
-  c2
+  << { <ges aes>2 ~ } \\ { r8 aes16 aes c aes c ees } >>
+  << { <ges, aes>4 } \\ { aes'8 r } >> c,, des
+  << { ees4 f } \\ { c2 } >> \break
+  << { ges'4 e } \\ { c2 } >>
 }
 
 tenor = \relative c' {
