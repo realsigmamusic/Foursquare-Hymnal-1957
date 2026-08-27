@@ -82,6 +82,37 @@ alto = \relative c' {
 tenor = \relative c' {
   \global
   \partial 4 r4
+  s2*11
+  r4 aes8 bes
+  s2*2
+  aes4 r
+  s2*7
+  f4 c
+  f,4 \pageBreak bes'
+  bes4. bes8
+  bes4 bes
+  bes4 aes
+  bes4 des
+  des2
+  aes2
+  aes2 ~
+  aes4 \section\sectionLabel "CHORUS" \break r
+  r4 aes aes r
+  r4 aes aes aes
+  des4 des des <bes des>
+  aes2 ~ aes4 \break r4
+  r4 aes aes r
+  r4 c c aes8. aes16
+  aes4 aes aes aes
+  aes8. aes16 aes8. aes16 aes4 \break r
+  r4 aes aes r
+  r4 aes aes a
+  aes4. aes8 aes4 bes
+  bes2 ~ bes4 \break bes
+  bes4. bes8 bes4 bes
+  bes4 a bes des
+  des2 aes
+  aes2 ~ aes4 r \fine
 }
 
 bass = \relative c {
@@ -130,7 +161,7 @@ bass = \relative c {
   r4 \tuplet 3/2 { aes,8 bes c } des4 r
   r4 \tuplet 3/2 { aes8 bes c } des4 c
   bes4. bes8 bes4 bes 
-  << { ees2 ~ ees4 } \\ { ees8. bes16 ges8. bes16 } >> \break bes4
+  << { ees2 ~ ees4 } \\ { ees8. bes16 ges8. bes16 ees,4 } >> \break bes'4
   ees4. ees8 f4 f 
   ges4 f bes, beses
   aes2 aes
