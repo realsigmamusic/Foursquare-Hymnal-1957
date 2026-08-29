@@ -78,6 +78,11 @@ alto = \relative c' {
   << { <ges, aes>4 } \\ { aes'8 r } >> c,, des
   << { ees4 f } \\ { c2 } >> \break
   << { ges'4 e } \\ { c2 } >>
+  << { <des f>2 ~ } \\ { r8 aes'16 aes des aes des f } >>
+  << { <des, f>4 } \\ { aes''16 r } >> des,,8 ( ees )
+  <des f>4 <des f>
+  <f aes>4 <des aes'>
+  % a distribuição de vozes aqui ta muito difício então vou fazer um pedaço de cada vez
 }
 
 tenor = \relative c' {
