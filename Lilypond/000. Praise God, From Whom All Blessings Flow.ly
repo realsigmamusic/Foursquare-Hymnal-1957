@@ -22,8 +22,8 @@
 
 \midi {
   \context {
-    \ChordNames
-    midiInstrument = "drawbar organ"
+    \Staff
+    midiInstrument = "choir aahs"
   }
 }
 
@@ -37,6 +37,7 @@
 global = {
   \key g \major
   \time 4/4
+  \tempo 4 = 90
 }
 
 soprano = \relative c'' {

@@ -22,8 +22,8 @@
 
 \midi {
   \context {
-    \ChordNames
-    midiInstrument = "drawbar organ"
+    \Staff
+    midiInstrument = "choir aahs"
   }
 }
 
