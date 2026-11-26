@@ -28,8 +28,7 @@
 }
 
 \header {
-  piece = "348"
-  title = "Joy to the World"
+  title = "348. Joy to the World"
   composer="George F. Handel"
   poet = "Isaac Watte"
 }

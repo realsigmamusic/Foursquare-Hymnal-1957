@@ -28,8 +28,7 @@
 }
 
 \header {
-  piece = "346"
-  title = "Silent Night"
+  title = "346. Silent Night"
   composer="Franz Gruber"
   poet = "Joseph Mohr"
 }

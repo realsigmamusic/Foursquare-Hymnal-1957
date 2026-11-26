@@ -28,8 +28,7 @@
 }
 
 \header {
-  piece = "001"
-  title = "O Worship The King"
+  title = "1. O Worship The King"
   composer = "Francis Joseph Haydn"
   poet = "Sir Robert Grand"
 }

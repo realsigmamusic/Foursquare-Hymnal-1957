@@ -28,8 +28,7 @@
 }
 
 \header {
-  piece = "345"
-  title = "O Come, All Ye Faithful"
+  title = "345. O Come, All Ye Faithful"
   composer="Wade's Cantus Diverai"
   poet = "Tr. by Frederick Oakeley"
 }

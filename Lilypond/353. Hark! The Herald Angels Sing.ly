@@ -28,8 +28,7 @@
 }
 
 \header {
-  piece = "353"
-  title = "Hark! The Herald Angels Sing"
+  title = "353. Hark! The Herald Angels Sing"
   composer="Felix Mendelssohn Bartholdy"
   poet = "Charles Wesley"
 }

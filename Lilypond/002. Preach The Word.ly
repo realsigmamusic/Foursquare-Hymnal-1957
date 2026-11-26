@@ -28,8 +28,7 @@
 }
 
 \header {
-  piece = "002"
-  title = "Preach The Word"
+  title = "2. Preach The Word"
   subtitle = \markup \normal-text "Copyright, 1935, by Echo Park Evang, ASS'N."
   composer = "Aimee Semple McPherson"
   poet = "A.S.M."

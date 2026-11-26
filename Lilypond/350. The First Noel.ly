@@ -28,8 +28,7 @@
 }
 
 \header {
-  piece = "350"
-  title = "The First Noel"
+  title = "350. The First Noel"
   composer="Traditional"
   poet = "Traditional"
 }

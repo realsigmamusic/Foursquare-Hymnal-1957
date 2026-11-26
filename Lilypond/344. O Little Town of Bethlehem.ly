@@ -28,8 +28,7 @@
 }
 
 \header {
-  piece = "344"
-  title = "O Little Town of Bethlehem"
+  title = "344. O Little Town of Bethlehem"
   composer="Lewis H. Redner"
   poet = "Phillips Brooks"
 }
