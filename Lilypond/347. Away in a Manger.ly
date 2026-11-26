@@ -16,7 +16,7 @@
   }
   \context {
     \Score
-    \overrideTimeSignatureSettings 6/8 #1/8 1,1  #'()
+    \overrideTimeSignatureSettings 3/4 #1/4 1,1,1  #'()
   }
 }
 
