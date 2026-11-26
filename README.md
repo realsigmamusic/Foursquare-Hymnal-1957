@@ -23,4 +23,4 @@
 | --- | ---- | ---- | --- | ----- | ---- |
 |  -  | Praise God, From Whom All Blessings Flow | [.pdf](PDF/000.%20Praise%20God%2C%20From%20Whom%20All%20Blessings%20Flow.pdf?raw=1) | [.ly](Lilypond/000.%20Praise%20God%2C%20From%20Whom%20All%20Blessings%20Flow.ly?raw=1) | [.midi](Midi/000.%20Praise%20God%2C%20From%20Whom%20All%20Blessings%20Flow.midi?raw=1) | [.png](Scan/000.%20Praise%20God%2C%20From%20Whom%20All%20Blessings%20Flow.png?raw=1) |
 |  1  | O Worship The King | [.pdf](PDF/001.%20O%20Worship%20The%20King.pdf?raw=1) | [.ly](Lilypond/001.%20O%20Worship%20The%20King.ly?raw=1) | [.midi](Midi/001.%20O%20Worship%20The%20King.midi?raw=1) | [.png](Scan/001.%20O%20Worship%20The%20King.png?raw=1) |
-|  2  | Preach The Word | [.pdf](PDF/002.%20Preach%20The%20Word.pdf?raw=1) | [.ly](Lilypond/002.%20Preach%20The%20Word.ly?raw=1) | [.midi](Midi/002.%20Preach%20The%20Word.midi?raw=1) | [.png](Scan/002.%20Preach%20The%20Word.png?raw=1) |
+|  2  | Preach The Word | [.pdf](PDF/002.%20Preach%20The%20Word.pdf) | [.ly](Lilypond/002.%20Preach%20The%20Word.ly) | [.midi](Midi/002.%20Preach%20The%20Word.midi) | [.png](Scan/002.%20Preach%20The%20Word.png) |
