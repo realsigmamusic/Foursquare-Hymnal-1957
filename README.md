@@ -2,6 +2,8 @@
 
 ## Index
 - 000 Praise God, From Whom All Blessings Flow
+- 001 O Worship The King
+- 002 Preach The Word
 - 344 O Little Town of Bethlehem
 - 345 O Come, All Ye Faithful
 - 346 Silent Night
